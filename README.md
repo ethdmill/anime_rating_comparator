@@ -1,5 +1,7 @@
 **Welcome to the Anime Rating Comparator!**
 
+To view the project within this repo, click on "anime_rating_comparator.ipynb" above!
+
 This project answers the question of whether or not the user rating of an anime title and the number of users who voted on it affect each other in any kind of correlatable ways. It also takes a look at the highest averages of user rating and number of user votes by title type. These questions are applicable to all media, especially from a sociological perspective, but for purposes of this project, I stuck to anime to keep things deliberate and focused.
 
 I accomplished this by importing a large data set from Kaggle that aggregates user data from a website called myanimelist.net, a very prominent website in the anime community. To keep the datasets below R-Rated and as free of outliers as possible, I omitted the strictly adult content from the main dataset, which proved to be very useful.
