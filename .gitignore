@@ -1,0 +1,5 @@
+# Ignored files for cleaner repo
+
+/.ipynb_checkpoints
+
+anime_data.db
